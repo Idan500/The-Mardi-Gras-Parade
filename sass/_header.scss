@@ -1,0 +1,37 @@
+.container-fluid {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+nav {
+    font-family: 'Pattaya', sans-serif;
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+
+.pattaya {
+    font-family: 'Pattaya', sans-serif;
+}
+
+.henny {
+    font-family: 'Henny Penny', cursive;
+}
+
+.pimg {
+    background-image: url(../images/back2.png);
+}
+
+.size-nav {
+    font-size: 1.5em;
+}
+
+.btn-grn {
+    color: #a0e934 !important;
+    border: 2px solid #a0e934;
+}
+
+.btn-grn:hover {
+    background-color: #a0e934;
+    color: #c259df !important;
+    border: 2px solid #ffffff;
+}

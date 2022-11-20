@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IA6CI;AAGJ,AACI,WADO,AACN,MAAM,CAAC;EACJ,OAAO,EAAE,OAAO;CACnB;;AAGL,AAAA,eAAe,CAAC;EACZ,SAAS,EAAE,IAAI;CAKlB;;AAND,AAGI,eAHW,AAGV,MAAM,CAAC;EACJ,OAAO,EAAE,OAAO;CACnB;;AAGL,AAAA,YAAY,CAAC;EACT,OAAO,EAAE,GAAG;EACZ,cAAc,EAAE,IAAI;CAUvB;;AAZD,AAII,YAJQ,AAIP,MAAM,CAAC;EACJ,OAAO,EAAE,OAAO;CACnB;;AAED,AAAA,UAAU,CARd,YAAY,CAQK;EACT,OAAO,EAAE,CAAC;EACV,cAAc,EAAE,IAAI;CACvB",
+    "sources": [
+        "../lightgallery.js-master/src/sass/lg-zoom.scss"
+    ],
+    "names": [],
+    "file": "lg-zoom.css"
+}

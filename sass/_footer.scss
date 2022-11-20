@@ -1,0 +1,47 @@
+.footer {
+    width: 100%;
+
+    background-image: url(../images/footer-logo5.png);
+    background-color: rgb(22, 22, 22);
+    transition: all 0.3s ease-in-out;
+}
+
+.footer:hover {
+    background-image: url(../images/footer-logo6.png);
+}
+
+.btntop {
+    position: relative;
+    bottom: -25px;
+    border-radius: 300px;
+}
+
+.text-footer {
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #c062da;
+    -webkit-text-stroke: 0.2px #ff73dc;
+    letter-spacing: 3px;
+}
+
+.href {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 100%;
+    background-color: rgb(255, 255, 255);
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    bottom: -25px;
+
+}
+
+.href:hover {
+    border: 2.5px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    filter: brightness(120%);
+    box-shadow: 0px 10px 30px rgba(255, 255, 255, 0.5);
+}
+
+.f-center {
+    text-align: center;
+}
